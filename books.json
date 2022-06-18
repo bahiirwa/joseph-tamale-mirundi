@@ -1,6 +1,13 @@
 {
     "books": [
         {
+            "Title": "Brian White: The Story of a Malicious Footballer",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2018",
+            "Length": "unknown"
+        },
+        {
             "Title": "Bobi Wine: Victory Or Revolution?",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
