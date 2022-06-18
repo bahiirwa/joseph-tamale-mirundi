@@ -1,194 +1,620 @@
 {
     "books": [
         {
-            "Title": "Brian White: The Story of a Malicious Footballer",
+            "Title": "How Akazu Politics Ruins Countries: Lessons from Rwanda, Kenya, South Sudan",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2018",
-            "Length": "unknown"
+            "Published": "2020",
+            "Length": "80",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
-            "Title": "Bobi Wine: Victory Or Revolution?",
+            "Title": "Scientific Elections: A Snake in the Pot that Will Cause the 1980 Corpse to Dance",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2017",
-            "Length": "44 pages"
-        },
-        {
-            "Title": "Uganda's Oil: Is it a Curse Or Scramble?",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2011",
-            "Length": "28 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "From Crown Prince to Commoner",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2012",
-            "Length": "80 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "Sudhir & Bank of Uganda",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Tamale Mirundi Publications",
-            "Published": "2017",
-            "Length": "45 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "Who Keeps Museveni in Power?",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Mirundi Media Consultants",
-            "Published": "2006",
-            "Length": "29 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "The Invisible Force",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Joseph Tamale Mirundi,",
-            "Published": "2016",
-            "Length": "86 pages",
-            "Language": "English"
+            "Published": "2021",
+            "Length": "32",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "How Leaders Loose Political Power: A Woman's Biblical Curse",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
             "Published": "2017",
-            "Length": "36 pages",
-            "Language": "English"
+            "Length": "36",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
-            "Title": "The History of Media in Uganda: Case of a Snake in a Cooking Pot: an Essential Handbook for Students of Mass Communication and Journalism",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Mirundi Media Publications",
-            "Published": "2016",
-            "Length": "42 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "Again at the Cross Road",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Tamale Mirundi Publications",
-            "Published": "2017",
-            "Length": "50 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "Politics of Banyampi: An African King with His Banyampi Aides",
+            "Title": "What divides the State and Religion",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2019",
-            "Length": "44 pages",
-            "Language": "English"
+            "Published": "2012",
+            "Length": "unknown",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
-            "Title": "Saving a Tongue from Its Hostile Teeth",
+            "Title": "Who to Blame?: Is it the Market Master Or the Mad Man?",
             "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2018",
-            "Length": "62 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "Nantaba, the Iron Lady: Facts Behind Her Trouble",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2019",
-            "Length": "39 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "Crucified for My Wealth: The Hunters Will Also be Hunted",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2019",
-            "Length": "44 pages",
-            "Language": "English"
-        },
-        {
-            "Title": "Politics of a Trojan Horse: Why Togikwatako Demos Failed in Kampala",
-            "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Tamale Mirundi Publications",
-            "Published": "2017",
-            "Length": "28 pages",
-            "Language": "English"
+            "Publisher": "International Law Institute",
+            "Published": "2012",
+            "Length": "20",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "Oil Curse: The Entry of Chinese",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Mirundi Media Consultants",
             "Published": "2018",
-            "Length": "39 pages",
-            "Language": "English"
+            "Length": "39",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
-            "Title": "Killing a Medical Doctor to Save a Cobbler",
+            "Title": "Saving a Tongue from Its Hostile Teeth",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2013",
-            "Length": "64 pages",
-            "Language": "English"
+            "Published": "2018",
+            "Length": "62",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
-            "Title": "How Mbabazi Plotted His Failed Coup",
+            "Title": "A marriage sustained by witchcraft",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
-            "Published": "2015",
-            "Length": "107 pages",
-            "Language": "English"
+            "Published": "2012",
+            "Length": "24",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "The 7 Concessions Museveni Offered KACITA",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Office of the President",
+            "Published": "2012",
+            "Length": "12",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Factors that Will Affect Museveni in 2021 Polls",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2020",
+            "Length": "68",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "The Battle Over Binazi Money",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2016",
+            "Length": "20",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "Baganda Politicians: The Politics of Wheel Barrow Pushers",
             "Author": "Joseph Tamale Mirundi",
-            "Publisher": "Unidentified",
+            "Publisher": "Joseph Tamale Mirundi",
             "Published": "2012",
-            "Length": "32 pages",
-            "Language": "English"
+            "Length": "32",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "How Mafia Manipulate Museveni and Population",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2019",
+            "Length": "28",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "COVID-19 Mafias: The Story of Baby Monkies Covid Conference",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2020",
+            "Length": "44",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Crusified for My Wealth: The Hunters Will Also be Hunted",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2019",
+            "Length": "44",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Why Museveni's Succession Will be Bloody",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2020",
+            "Length": "52",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Mafia Threatens Museven's Survival",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2017",
+            "Length": "60",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "The Mafia Panick Conference",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
             "Published": "2018",
-            "Length": "54 pages",
-            "Language": "English"
+            "Length": "54",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Who is Selling Buganda?: Is it the Kabaka, Museveni, Or the Katikkiro?",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2018",
+            "Length": "46",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Bank of Uganda Probe: Why FDC Fights Over a Corpse",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2019",
+            "Length": "44",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Nantaba, the Iron Lady: Facts Behind Her Trouble",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2019",
+            "Length": "39",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Brian White: The Story of a Malicious Footballer",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2018",
+            "Length": "unknown",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Mafia Grabs Museveni's Polls, Radio Money",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2020",
+            "Length": "40",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Bobi Wine: Victory Or Revolution?",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2017",
+            "Length": "44",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "The Power of Uganda Mafias",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2018",
+            "Length": "38",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Mafia Threatens Museveni's Survival",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2017",
+            "Length": "60",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Uganda's Oil: Is it a Curse Or Scramble?",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2011",
+            "Length": "28",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "From Crown Prince to Commoner",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2012",
+            "Length": "80",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Rules and Principles of Succession",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Tamale Mirundi Publications",
+            "Published": "2011",
+            "Length": "24",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Sudhir & Bank of Uganda",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Tamale Mirundi Publications",
+            "Published": "2017",
+            "Length": "45",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Who Keeps Museveni in Power?",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Mirundi Media Consultants",
+            "Published": "2006/9",
+            "Length": "29",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "The Invisible Force",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi,",
+            "Published": "2016",
+            "Length": "86",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "How Leaders Loose Political Power: A Woman's Biblical Curse",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2017",
+            "Length": "36",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "The History of Media in Uganda: Case of a Snake in a Cooking Pot: an Essential Handbook for Students of Mass Communication and Journalism",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Mirundi Media Publications",
+            "Published": "2016",
+            "Length": "42",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Again at the Cross Road",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Tamale Mirundi Publications",
+            "Published": "2017",
+            "Length": "50",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Politics of Banyampi: An African King with His Banyampi Aides",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2019",
+            "Length": "44",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Saving a Tongue from Its Hostile Teeth",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2018",
+            "Length": "62",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Nantaba, the Iron Lady: Facts Behind Her Trouble",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2019",
+            "Length": "39",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Crucified for My Wealth: The Hunters Will Also be Hunted",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2019",
+            "Length": "44",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Politics of a Trojan Horse: Why Togikwatako Demos Failed in Kampala",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Tamale Mirundi Publications",
+            "Published": "2017",
+            "Length": "28",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Oil Curse: The Entry of Chinese",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Mirundi Media Consultants",
+            "Published": "2018",
+            "Length": "39",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Killing a Medical Doctor to Save a Cobbler",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2013",
+            "Length": "64",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "How Mbabazi Plotted His Failed Coup",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2015",
+            "Length": "107",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Baganda Politicians: The Politics of Wheel Barrow Pushers",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Unidentified",
+            "Published": "2012",
+            "Length": "32",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "The Mafia Panick Conference",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2018",
+            "Length": "54",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "Bafunda ne Serwajjokwota",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Mirundi Media Consultants",
             "Published": "2005",
-            "Length": "83 pages",
-            "Language": "Luganda"
+            "Length": "83",
+            "Length_Unit": "pages",
+            "Language": "Luganda",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "Uganda n'ettemu ly'ekinaana",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Mirundi Media Consultants",
             "Published": "2010",
-            "Length": "19 pages",
-            "Language": "Luganda"
+            "Length": "19",
+            "Length_Unit": "pages",
+            "Language": "Luganda",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Mabira: eby'obufuzi eby'ekirembo",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2011",
+            "Length": "20",
+            "Length_Unit": "pages",
+            "Language": "Luganda",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Eby'obufuzi eby'ekirembo",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2020",
+            "Length": "18",
+            "Length_Unit": "pages",
+            "Language": "Luganda",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "Ebyafaayo bya Buganda okuva mu 1894-1966",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Mirundi Media Consultants. Original from Indiana University. Digitized 31 May 2011",
             "Published": "2004",
-            "Length": "165 pages",
-            "Language": "Luganda"
+            "Length": "165",
+            "Length_Unit": "pages",
+            "Language": "Luganda",
+            "cover" : "",
+            "summary" : ""
         },
         {
             "Title": "Bundaggu Katikkiro Mayengo mu bwakabaka bwa Mutembi: omugalagala ng'akuuma olubiri lwa Bundaggu",
             "Author": "Joseph Tamale Mirundi",
             "Publisher": "Joseph Tamale Mirundi",
             "Published": "2013",
-            "Length": "30 pages",
-            "Language": "Luganda"
+            "Length": "30",
+            "Length_Unit": "pages",
+            "Language": "Luganda",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Adjusting the Trap: (enongosereza)",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2020",
+            "Length": "32",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "How Museveni Survived the Mafia Traps",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2014",
+            "Length": "60",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "End of Road for Uganda's Thieves",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2012",
+            "Length": "28",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "The Last Kicks of the Mafia Gang",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2018",
+            "Length": "52",
+            "Length_Unit": "pages",
+            "Language": "English",
+            "cover" : "",
+            "summary" : ""
+        },
+        {
+            "Title": "Answers to Opposition Lies",
+            "Author": "Joseph Tamale Mirundi",
+            "Publisher": "Joseph Tamale Mirundi",
+            "Published": "2015",
+            "Length": "64",
+            "Length_Unit": "pages",
+            "Language": "Luganda",
+            "cover" : "",
+            "summary" : ""
         }
     ]
 }
